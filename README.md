@@ -22,9 +22,6 @@ Welcome! This repository contains a curated set of 50 practice mock questions to
 - Clustering (K-Means)
 - Principal Component Analysis (PCA)
 - Regularization (L1, L2)
-- Hyperparameter Tuning
-- Data Preprocessing
-- Model Deployment (Basics)
 - Common ML Library (numpy)
 - And more!
 
